@@ -1,4 +1,3 @@
-# Perrito-Feliz
 <h1 align="center">Hi 👋, I'm Perrito Feliz</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
